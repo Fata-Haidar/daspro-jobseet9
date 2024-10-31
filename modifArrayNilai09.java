@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class modifArrayNilai09 {
-
+y
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] nilaiAkhir = new int [10];

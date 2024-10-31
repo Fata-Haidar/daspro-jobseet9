@@ -4,7 +4,7 @@ public class ArrayNilai09 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] nilaiAkhir = new int [10];
-y
+
         for(int i = 0; i < 10; i++){
             System.out.print("Masukkan nilai akhir ke-"+i+" : ");
             nilaiAkhir[i] = sc.nextInt();
