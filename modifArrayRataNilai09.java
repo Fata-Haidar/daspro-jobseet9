@@ -21,7 +21,7 @@ public class modifArrayRataNilai09 {
                 lulus+=1;
                 total+=nilaiMhs[i];
                 
-
+u
                 
             }   else{
                 totalp+=nilaiMhs[i];
