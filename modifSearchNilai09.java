@@ -7,7 +7,7 @@ public class modifSearchNilai09 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int key=0;
-      
+      p
         int hasil=0;
         System.out.print("Masukkan banyaknya nilai yang diinput: "  );
         int nilai = sc.nextInt();
