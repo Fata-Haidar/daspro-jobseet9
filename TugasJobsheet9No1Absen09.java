@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**
  * Tugas1Jobsheet9No1Absen09
  */
-public class Tugas1Jobsheet9No1Absen09 {
+public class TugasJobsheet9No1Absen09 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
