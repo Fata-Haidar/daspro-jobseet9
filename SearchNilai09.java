@@ -11,7 +11,7 @@ public class SearchNilai09 {
             if (key == arrNilai[i]){
                 hasil=i;
                 break;
-            }y
+            }
         }
         System.out.println();
         System.out.println("Nilai " + key+ " ketemu di indeks ke-"+hasil);
