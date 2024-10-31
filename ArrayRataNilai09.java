@@ -20,7 +20,8 @@ public class ArrayRataNilai09 {
             total+=nilaiMhs[i]; 
             if (nilaiMhs[i] > 70) {
                  x +=1;
-            }     
+            }    
+             
         } 
         rata2 = total/nilaiMhs.length;
         System.out.println("Rata-rata nilai= "+rata2);
